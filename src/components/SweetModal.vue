@@ -515,11 +515,6 @@
 						fill: currentColor;
 					}
 				}
-
-				&:hover {
-					background: color(blue);
-					color: #fff;
-				}
 			}
 		}
 
